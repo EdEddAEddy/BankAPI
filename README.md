@@ -12,7 +12,7 @@ Antes de começar, você precisa ter o Node.js instalado em sua máquina.
 1. Clone o repositório para a sua máquina local:
 
 ```bash
-git clone <URL do repositório>
+git clone git@github.com:EdEddAEddy/BankAPI.git
 ```
 
 2. Navegue até o diretório do projeto:
